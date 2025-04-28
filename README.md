@@ -2,7 +2,7 @@
 A modular implementation of a BERT-based machine learning model customized for clinical prediction tasks using the MIMIC III dataset, an electronic health record (EHR) dataset. The implementation includes comprehensive steps for data preprocessing, model construction, and training. Evaluation of the model's performance is conducted using relevant evaluation metrics to assess its effectiveness.
 ### Training Details
 - **Number of Epochs**: 10
-- **Average Training Loss**: *0.2621*
+- **Average Training Loss**: 0.2621
 
 ### Evaluation Metrics
 | Metric        | Value               |
